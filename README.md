@@ -68,10 +68,10 @@
    pip install -r requirements.txt  # (필요 시 패키지 개별 설치)
    ```
 
-3. **주피터 노트북 실행**
-   ```bash
-   jupyter notebook
-   ```
+3. **Google Antigravity 실행**
+   - 본 프로젝트의 코드는 **Google Antigravity AI** 툴을 사용하여 보다 지능적으로 분석 및 실행할 수 있습니다.
+   - Antigravity 인터페이스에서 해당 파일(Jupyter Notebook)을 열어 AI와 함께 코드 리뷰, 실행 및 최적화를 진행하세요.
+
 
 ---
 
