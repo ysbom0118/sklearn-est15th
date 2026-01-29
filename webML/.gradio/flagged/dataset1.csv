@@ -1,0 +1,2 @@
+Pclass (Ticket Class),Sex,Age,SibSp (Siblings/Spouses aboard),Parch (Parents/Children aboard),Fare,Embarked,output,timestamp
+2,male,18,0,0,17,Q,Prediction: Deceased (Confidence: 83.74%),2026-01-23 13:42:26.021887
